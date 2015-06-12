@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Pswitcher
+GenericName=Proxy switcher
+Exec=pswitcher.sh
+Icon=pswitcher
+Type=Application
+Terminal=true
