@@ -19,3 +19,6 @@ Switch gnome proxy mode from manual to none and vice versa.
   1. Press ```super``` key.
   2. Enter ```psw``` in search field:     ![alttag](https://raw.githubusercontent.com/vitalya-dev/project-pswitcher/master/docs/run.png)
   3. Press ```enter```.
+
+## Contact
+* **Email:** vitalya.dev@gmail.com
